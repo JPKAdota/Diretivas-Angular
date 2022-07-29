@@ -3,7 +3,7 @@ import { FormsModule } from '@angular/forms';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
-import { MarcaTextoDirective } from './direct/marca-texto.directive';
+import { MarcaTextoDirective } from './shared/direct/marca-texto.directive';
 
 @NgModule({
   declarations: [
